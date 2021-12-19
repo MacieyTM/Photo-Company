@@ -1,2 +1,2 @@
-# Szablon przykładowej strony internetowej dla firmy:
+# Strona internetowa firmy fotograficznej:
 https://macieytm.github.io/Photo-Company/
